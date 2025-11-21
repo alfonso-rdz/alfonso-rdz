@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola 👋, soy Alfonso
 
-<!--
-**alfonso-rdz/alfonso-rdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!-- Stats principales (tarjeta grande) -->
+  <table>
+    <tr>
+      <td valign="top">
+        <!-- GitHub readme stats (tarjeta con commits, PRs, issues, stars) -->
+        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonso-rdz&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
+      </td>
+      <td valign="top">
+        <!-- Lenguajes más usados -->
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonso-rdz&layout=compact&theme=dark)
+        <br/>
+        <!-- Streak / rachas -->
+        ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfonso-rdz&theme=dark)
+      </td>
+    </tr>
+  </table>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
